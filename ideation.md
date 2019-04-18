@@ -20,7 +20,7 @@ Project Ideation:
        - Rate the passanger of the trip, so that the system penalizes those who do not follow the rules and thus guarantee a good service.
        - Remove/Cancel the offer.
 
-     - Pasajeros:
+     - Passengers:
 
        - Check the list of travel offers.
        - Book a particular route.
