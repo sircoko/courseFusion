@@ -8,4 +8,8 @@ import { DISHES } from '../shared/dishes';
 export class DishService {
 
   constructor() { }
+
+  getDishes(): Dish[] {
+    return DISHES;
+  }
 }
