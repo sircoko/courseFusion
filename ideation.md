@@ -37,16 +37,16 @@ Project Ideation:
    ### Do a survey of the Web to find about five web sites that might have similar ideas as yours. Briefly compare the features of these applications with your application idea.
 
    #### BLABLACAR
-        Drivers place a price for passengers and the website charges a commission for the use of the platform. When a trip is booked, passengers receive recalling the booking data by email and SMS. Everyone can assing categories to their profile such as preferred music and conversation topics.
+   Drivers place a price for passengers and the website charges a commission for the use of the platform. When a trip is booked, passengers receive recalling the booking data by email and SMS. Everyone can assing categories to their profile such as preferred music and conversation topics.
 
    #### AMOVENS
-        It is a site very similar to BLABLACAR, which not only manteins the functionalities of that platform but also allows a couple of different methods to obtain vehicles (rent between private individuals and "free car" mode). It does not charge commission.
+   It is a site very similar to BLABLACAR, which not only manteins the functionalities of that platform but also allows a couple of different methods to obtain vehicles (rent between private individuals and "free car" mode). It does not charge commission.
 
    #### MOBICOOP
-        This platform does not charge commision to its users, it only accepts donations. The UI is quite intuitive; it allows searching according to criteria assigned to the driver. It allows you to define flexible schedules (since this service in intended to longer trips) both in time and date.
+   This platform does not charge commision to its users, it only accepts donations. The UI is quite intuitive; it allows searching according to criteria assigned to the driver. It allows you to define flexible schedules (since this service in intended to longer trips) both in time and date.
 
    #### COVOITURAGE
-        This site mantains the same functionalities, perhaps with a design less attractive to the user. The customization of the user profile is much broader. It also has a comments/reviews system. 
+   This site mantains the same functionalities, perhaps with a design less attractive to the user. The customization of the user profile is much broader. It also has a comments/reviews system. 
 
 ### 4. References
    ### Give references to any material / websites / books etc. relevant to your application idea. Give the links to the websites relevant to your idea, that you listed in the section above.
