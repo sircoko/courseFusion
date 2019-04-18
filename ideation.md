@@ -34,11 +34,11 @@ Project Ideation:
 3. Market Survey
    ## Do a survey of the Web to find about five web sites that might have similar ideas as yours. Briefly compare the features of these applications with your application idea.
 
-   * ###[BLABLACAR](https://www.blablacar.es/)
-   * ###[AMOVENS](https://amovens.com/)
-   * ###[MOBICOOP](https://www.mobicoop.fr/)
-   * ###[ROULEZ MALIN](https://www.roulezmalin.com/)
-   * ###[COVOITURAGE](https://www.covoiturage.ca/)
+   * [BLABLACAR](https://www.blablacar.es/)
+   * [AMOVENS](https://amovens.com/)
+   * [MOBICOOP](https://www.mobicoop.fr/)
+   * [ROULEZ MALIN](https://www.roulezmalin.com/)
+   * [COVOITURAGE](https://www.covoiturage.ca/)
 
 
 4. References
