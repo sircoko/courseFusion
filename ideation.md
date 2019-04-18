@@ -16,18 +16,30 @@ Project Ideation:
 
        - Ofertar rutas indicando: Destino, Numero de Pasajeros, Posibles paradas, Hora de Salida.
        - Mirar si hay usuarios solicitando viajes.
+       - Definir las reglas de uso del vehículo (impuntualidad, cambio de parada, comer, fumar, escuchar música u otros dentro del vehículo)
+       - Calificar a los pasajeros del viaje, para que el sistema sancione a aquellos que no cumplan con las reglas y garantizar así un servicio en el que todos salgan beneficiados.
 
      - Pasajeros:
 
        - Solicitar traslado a una ruta particular.
        - Pueden mirar lista de ofertas de viaje.
+       - Calificar a conductor del viaje de forma que el sistema sancione a aquellos que no cumplan con reglas de seguridad (Violación de las leyes de tránsito, cambio de ruta inconsulta, Incumplimiento de la hora de salida, etc.)
+
 
    - Features deseables:
 
      - Usar googlemaps para indicar ruta del viaje a seguir, de forma que los pasajeros puedan elegir la más conveniente.
+     - Usar gps del telefono para conocer posición del conductor/pasajero de forma privada (una vez que se ha definido el grupo de viaje)
 
 3. Market Survey
    ## Do a survey of the Web to find about five web sites that might have similar ideas as yours. Briefly compare the features of these applications with your application idea.
+
+   * ###[BLABLACAR](https://www.blablacar.es/)
+   * ###[AMOVENS](https://amovens.com/)
+   * ###[MOBICOOP](https://www.mobicoop.fr/)
+   * ###[ROULEZ MALIN](https://www.roulezmalin.com/)
+   * ###[COVOITURAGE](https://www.covoiturage.ca/)
+
 
 4. References
    ## Give references to any material / websites / books etc. relevant to your application idea. Give the links to the websites relevant to your idea, that you listed in the section above.
