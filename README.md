@@ -3,10 +3,14 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Install some modules
-`npm install @angular/material --save`
-`npm install @angular/animations --save`
-`npm install hammerjs --save`
-`npm install --save @angular/flex-layout`
+`npm install @angular/material --save`.
+
+`npm install @angular/animations --save`.
+
+`npm install hammerjs --save`.
+
+`npm install --save @angular/flex-layout`.
+
 
 ## Development server
 
