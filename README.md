@@ -1,10 +1,10 @@
 # CourseFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+## Generate a new angular application
+`ng new conFusion --style=scss`  (see the SCSS, using Routes)
 
 ## Install some modules
-
-`ng new conFusion --style=scss`  (see the SCSS)
 
 `npm install @angular/material --save`.
 
