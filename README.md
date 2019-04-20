@@ -14,9 +14,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 `npm install --save @angular/flex-layout`.
 
 ## Connect to repository
-`git commit -m "First Commit"`
-`git remote add origin https://github.com/sircoko/courseFusion.git`
-`git pull`
+`git commit -m "First Commit"`.
+
+`git remote add origin https://github.com/sircoko/courseFusion.git`.
+
+`git pull`.
+
 
 ## Development server
 
