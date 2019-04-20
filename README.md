@@ -1,6 +1,25 @@
 # CourseFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
+## Generate a new angular application
+`ng new conFusion --style=scss`  (see the SCSS, using Routes)
+
+## Install some modules
+`npm install @angular/material --save`.
+
+`npm install @angular/animations --save`.
+
+`npm install hammerjs --save`.
+
+`npm install --save @angular/flex-layout`.
+
+## Connect to repository
+`git commit -m "First Commit"`.
+
+`git remote add origin https://github.com/sircoko/courseFusion.git`.
+
+`git pull`.
+
 
 ## Development server
 
