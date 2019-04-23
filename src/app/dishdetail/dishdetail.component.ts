@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild, Inject } from '@angular/core';
 import { Params, ActivatedRoute } from '@angular/router';
 import { Location } from '@angular/common';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
@@ -12,7 +12,6 @@ import { switchMap } from 'rxjs/operators';
   styleUrls: ['./dishdetail.component.scss']
 })
 export class DishdetailComponent implements OnInit {
-
   dish: Dish;
   dishIds: string[];
   prev: string;
@@ -39,11 +38,13 @@ export class DishdetailComponent implements OnInit {
   }
 
   constructor(private dishService: DishService,
+              @Inject('baseURL') private baseURL,
               private route: ActivatedRoute,
               private location: Location,
               private c: FormBuilder) {
                 this.createForm();
               }
+
 
   ngOnInit() {
     this.dishService.getDishIds()
