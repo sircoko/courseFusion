@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { BrowserAnimationsModule} from '@angular/platform-browser/animations';
+
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatListModule } from '@angular/material/list'
 import { MatGridListModule } from '@angular/material/grid-list'
@@ -36,6 +37,7 @@ import { PromotionService } from './services/promotion.service';
 import { LeaderService } from './services/leader.service';
 import { LoginComponent } from './login/login.component';
 import { ProcessHTTPMsgService } from './services/process-httpmsg.service';
+import { FeedbackService} from './services/feedback.service';
 
 import { baseURL } from './shared/baseurl';
 import { HighlightDirective } from './directives/highlight.directive';
@@ -82,6 +84,7 @@ import { HighlightDirective } from './directives/highlight.directive';
     PromotionService,
     LeaderService,
     ProcessHTTPMsgService,
+    FeedbackService,
     {provide: 'baseURL', useValue: baseURL }
   ],
   entryComponents: [
